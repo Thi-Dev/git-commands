@@ -1,5 +1,5 @@
-# commandes git
-# Mes premieres commandes git 
+# Commandes git
+# Les premières commandes de base sur git 
 
 Liste des commandes git
 
@@ -21,4 +21,4 @@ permet de pousser les modifications en ligne
 - permet de verifier le statut du repertoire.
 
 ## git log
-permet de lister les modifications en local
+permet de lister les modifications en local 
