@@ -30,3 +30,6 @@
 - permet de passer d'une branche a une autre 
 - permet de se déplacer d'une branche a une autre
 - avec l'option checkout -b permet de creer et de changer directement sur la branche
+
+## git pull
+- permet de récuperer les modifications à distance.
