@@ -33,3 +33,9 @@
 
 ## git pull
 - permet de récuperer les modifications à distance.
+
+## git rebase 
+- se mettre sur la branche 
+- permet de telecharger les modifications dans la branche parente pour mettre sur la branche feature.
+- Les modifications de la branche mère sont placées en dessous des modifications de la branche courante.
+- Les modifications de la branche courante sont placées au dessus des modifications de la branche mère.
