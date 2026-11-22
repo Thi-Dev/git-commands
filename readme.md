@@ -22,3 +22,11 @@ permet de pousser les modifications en ligne
 
 ## git log
 permet de lister les modifications en local 
+
+## git branch feature/nom de la branche
+permet de creer une branche 
+
+## git checkout -b feature/ nom de la branche
+- permet de passer d'une branche a une autre 
+- permet de se déplacer d'une branche a une autre
+- avec l'option checkout -b permet de creer et de changer directement sur la branche
