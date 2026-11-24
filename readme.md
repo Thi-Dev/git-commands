@@ -33,17 +33,4 @@
 
 ## git pull
 - permet de récuperer les modifications à distance.
-
-## git rebase 
-- se mettre sur la branche 
-- permet de telecharger les modifications dans la branche parente pour mettre sur la branche feature.
-- Les modifications de la branche mère sont placées en dessous des modifications de la branche courante.
-- Les modifications de la branche courante sont placées au dessus des modifications de la branche mère.
-
-## git reset --force
-- permet de supprimer un commit 
-- permet de revenir a un commit définit par son identifiant + ( Numéro du commit )
-- attention a utiliser avec precaution 
-
-## git diff + Numero + Numero
-- permet de comparer deux commit 
+  
